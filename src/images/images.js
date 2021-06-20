@@ -1,4 +1,4 @@
-{
+const imagesArray = {
   "galleryImages" : [
     {
       "url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550746.jpg",
@@ -87,3 +87,4 @@
     }
   ]
 }
+export default imagesArray;
